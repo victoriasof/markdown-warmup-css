@@ -1,0 +1,12 @@
+body {
+    background-color: MediumSeaGreen;
+}
+h1 {
+    color: black;
+    text-align: left;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
